@@ -3,7 +3,7 @@
 
 This repository provides the code to qualitatively reproduce the publication figures, that is, creating, running, analysing and plotting the network model with excitatory cells and three types of inhibitory interneurons. 
 
-To reproduce the panels of the publication figures, please run the corresponding python code (Run_\*.py) with the parameters specified within the script. After the script has been run successfully, it will save the data (Results/Data/*) and the single panels of the figure (Results/Figures/*).
+To reproduce the panels of the publication figures, please run the corresponding python code (Run_\*.py) with the parameters specified within the script. After the script has been run successfully, it will save the data (Results/Data/\*) and the single panels of the figure (Results/Figures/\*).
 
 Many of the figures involve running a network with synaptic plasticity which may take a while if you use a laptop without sufficient computing power. Also, note that the results may vary slightly because of different random numbers used in simulations. 
 
