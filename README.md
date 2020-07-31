@@ -9,6 +9,6 @@ Many of the figures involve running a network with synaptic plasticity which may
 
 Remark 1: Note that we incorporated the gain factor present in Murayama et al. (2009) into the parameters in the paper but not in the simulations. Thus, the weights onto the excitatory neurons have different units than the weights onto interneurons (in case you wonder ;)).
 
-Remark 2: A script for the reproduction of Figure 1–Figure supplement 1 is not explicitly given but automatically reproduced when Figure 1, Figure 6 and Figure 6–Figure supplement 1 are run.
+Remark 2: A script for the reproduction of Figure 1–Figure supplement 1 is not explicitly given but the panels of that figure are automatically reproduced when Figure 1, Figure 6 and Figure 6–Figure supplement 1 are run.
 
 In case of questions, problems or requests, feel free to contact the authors. 
