@@ -1,3 +1,6 @@
+This code is associated with the paper from  Herta¨g et al., "Learning prediction error neurons in a
+canonical interneuron circuit". eLife, 2020. http://doi.org/10.7554/eLife.57541
+
 # Code for reproduction of Hertäg & Sprekeler (2020)
 „Learning prediction error neurons in a canonical interneuron circuit“
 
